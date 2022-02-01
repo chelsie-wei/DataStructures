@@ -1,0 +1,36 @@
+bfs
+Ariana Grande
+Bruno Mars
+dfs
+Ariana Grande
+Bruno Mars
+not
+Ariana Grande
+Bruno Mars
+Lil Wayne
+*
+not
+Ariana Grande
+Bruno Mars
+Lil Wayne
+2 Chainz
+*
+not
+Ariana Grande
+Bruno Mars
+Lil Wayne
+2 Chainz
+Chance the Rapper
+Cardi B
+*
+not
+Ariana Grande
+Bruno Mars
+Lil Wayne
+2 Chainz
+Chance the Rapper
+Cardi B
+Future
+Ed Sheeran
+*
+quit
